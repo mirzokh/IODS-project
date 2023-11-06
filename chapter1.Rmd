@@ -3,6 +3,8 @@
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
+As I am new to R, the first week has been quite difficult. I wasn't able to finish reading the 4 recommended chapters from R for Health Data Science book. However, as you cans see I'm catching up. Here is a link to my github repository: https://github.com/mirzokh/IODS-project
+
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
 
